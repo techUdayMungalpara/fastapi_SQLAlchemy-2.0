@@ -1,0 +1,17 @@
+# Ignore Python cache directories and files
+__pycache__/
+
+.env
+.venv/
+
+# Ignore VS Code files and directories
+.vscode/
+/**/.vscode/
+
+*.db
+
+
+# Ignore virtual environment directories
+.venv/
+venv/
+
